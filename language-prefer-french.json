@@ -1,0 +1,19 @@
+{
+  "trash_id": "e0d972081ada4ab6b1e10f6cc4fab4f3",
+  "trash_scores": {
+      "default": 10
+  },
+  "name": "Language: Prefer French",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "French Language",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": true,
+      "fields": {
+        "value": 2
+      }
+    }
+  ]
+}
