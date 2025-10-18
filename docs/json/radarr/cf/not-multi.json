@@ -1,5 +1,8 @@
 {
   "trash_id": "d0d15cef16a84e2a95122245a01fa2f7",
+  "trash_scores": {
+      "default": -10000
+  },
   "name": "Not MULTi",
   "includeCustomFormatWhenRenaming": false,
   "specifications": [
