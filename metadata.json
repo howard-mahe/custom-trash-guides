@@ -5,7 +5,8 @@
       "custom_formats": ["docs/json/radarr/cf"]
     },
     "sonarr": {
-      "custom_formats": ["docs/json/sonarr/cf"]
+      "custom_formats": ["docs/json/sonarr/cf"],
+      "qualities": ["docs/json/sonarr/quality-size"]
     }
   }
 }
